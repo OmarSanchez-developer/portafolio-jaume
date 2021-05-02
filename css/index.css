@@ -1,7 +1,10 @@
 @import "./button.css";
 @import "./header.css";
 @import "./hero.css";
+@import "./wrapper.css";
+@import "./menu.css";
 @import "./button-icon.css";
+
 :root {
   --fontBase: 'Poppins', sans-serif;
   --headline1: bold 95px/153.71px var(--fontBase);
