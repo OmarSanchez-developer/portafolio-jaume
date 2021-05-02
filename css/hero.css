@@ -1,5 +1,6 @@
 .hero {
-  border: 1px solid red;
+  /* border: 1px solid red; */
+  padding: block-start;
 }
 .hero-description {
   display: flex;
