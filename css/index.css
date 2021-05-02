@@ -4,6 +4,7 @@
 @import "./wrapper.css";
 @import "./menu.css";
 @import "./button-icon.css";
+@import "./testimony.css";
 
 :root {
   --fontBase: 'Poppins', sans-serif;
